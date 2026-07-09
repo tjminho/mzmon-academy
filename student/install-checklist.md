@@ -1,4 +1,4 @@
-# 설치 체크리스트 — 인프런 · 3순위 Cursor 입문
+# 설치 체크리스트 — 인프런 · Cursor 입문
 
 > **실습 Template**: https://github.com/tjminho/mzmon-items-workshop/generate
 
